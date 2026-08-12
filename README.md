@@ -42,10 +42,7 @@ I'm a Telecommunications and Information Engineering student building systems th
 
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruceboge&show_icons=true&theme=dark&hide_border=false&count_private=false)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bruceboge&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bruceboge&layout=compact&theme=dark&hide_border=false)
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=bruceboge&theme=darkhub&no-frame=true&row=1&column=7)
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bruceboge&theme=react-dark&hide_border=true)
