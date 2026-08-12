@@ -40,7 +40,6 @@ I'm a Telecommunications and Information Engineering student building systems th
 
 ## 📊 GitHub Stats
 
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruceboge&show_icons=true&theme=dark&hide_border=false&count_private=false)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bruceboge&theme=dark&hide_border=false)
 
 
