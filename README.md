@@ -8,10 +8,10 @@
 
 ## About Me
 
-I'm a Telecommunications and Information Engineering student building systems that are efficient, reliable, and grounded in real-world use. My work spans embedded/satellite systems, automation, and full-stack development — with a particular interest in serverless architectures and scalable backend infrastructure.
+I'm a Telecommunications and Information Engineering student building systems that are efficient, reliable, and grounded in real-world use. My work spans embedded/satellite systems, automation, and full-stack development and scalable infrastructure.
 
 - 🔭 Building a **Nano Satellite Module** — from communication subsystem to ground-station integration
-- 🌱 Deepening my knowledge of **Serverless Computing** and event-driven architectures
+- 🌱 Deepening my knowledge of event-driven architectures
 - ⚙️ Exploring the intersection of **telecommunications and automation systems**
 - 🤝 Collaborating with fellow engineers on real-world, deployable hardware-software projects
 - 💼 Freelance automation developer, alongside my studies
